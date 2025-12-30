@@ -1,0 +1,9 @@
+[{
+"prep_prop_init": 0,
+"prep_prop_init_time": 6.5,
+"tot_infect_prop_init_min": 0.066,
+"tot_infect_prop_init_max": 0.0705,
+"prop_diagn_init": 0.9,
+"prop_treat_init": 0.91,
+"prop_sup_init": 0.94
+}]

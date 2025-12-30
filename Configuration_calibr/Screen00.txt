@@ -1,0 +1,8 @@
+[{
+    "T_extra_s": 40,
+    "upsilon_ahi1": 0.73016,
+    "upsilon_ahi23": 0.73016,
+    "upsilon_ahi45": 0.73016,
+    "upsilon_ahi_c_6m": 0.65032,
+    "upsilon_ahi_c_12m": 0.75754
+ }]

@@ -1,0 +1,6 @@
+[{
+  "test_rate_1": 1.53840,
+  "test_rate_2": 0.51752,
+    "test_rate_3": 0.2,
+    "test_rate_4": 0.1
+}]
